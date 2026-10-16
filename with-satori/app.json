@@ -1,0 +1,12 @@
+{
+  "scheme": "acme",
+  "web": {
+    "output": "server"
+  },
+  "plugins": [
+    "expo-router",
+    "expo-image",
+    "expo-splash-screen",
+    "expo-status-bar"
+  ]
+}

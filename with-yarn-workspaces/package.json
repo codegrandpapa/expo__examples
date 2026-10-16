@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "yarn workspace mobile start"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "expo": "^57.0.1"
+  }
+}
